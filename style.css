@@ -70,6 +70,8 @@ nav a:hover {
 
 }
 
-#wali a {
+#wali a:hover {
+text-decoration: underline;
 
 }
+
