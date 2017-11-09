@@ -101,4 +101,7 @@ div.questions a.btn {
   font-size: 20px;
 }
 
-div.questions a.btn:hover
+div.questions a.btn:hover{
+  background-color: #007bff;
+  border-color: #007bff;
+}
