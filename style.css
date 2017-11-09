@@ -91,7 +91,7 @@ div.questions p {
 
 }
 
-a btn {
+a.btn {
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
